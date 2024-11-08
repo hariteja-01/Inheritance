@@ -1,0 +1,2 @@
+# Inheritance
+ Code for Inheritence
